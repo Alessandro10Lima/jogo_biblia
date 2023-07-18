@@ -5,7 +5,7 @@ import Welcome from './components/Welcome'
 import Question from './components/Question'
 import GameOver from './components/GameOver'
 
-import Icon from '../src/images/livro.png';
+import Icon from '../src/images/icone.png';
 
 import './App.css'
 
