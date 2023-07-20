@@ -566,7 +566,7 @@ const data = [
     },
     {
       "question": "Qual personagem matou um leão com as próprias mãos?",
-      "options": ["Gideão", "Golias", "Sansão", "Davi"],
+      "options": ["Gideão", "Golias", "Sansão", "Josué"],
       "answer": "Sansão"
     },
     {
@@ -788,11 +788,6 @@ const data = [
       "question": "Quais foram os presentes que os magos do oriente ofereceram ao menino Jesus?",
       "options": ["Perfume, incenso e mirra", "Ouro, prata e bronze", "Ouro, incenso e mirra", "Perfume, ouro, flores"],
       "answer": "Ouro, incenso e mirra"
-    },
-    {
-      // "question": "Quem foi o personagem bíblico conhecido por ser o homem mais sábio?",
-      // "options": ["Davi", "Salomão", "Josué", "Samuel"],
-      // "answer": "Salomão"
     },
     {
       "question": "Quem é o personagem bíblico em comum com Islamismo, Judaismo e Cristianismo?",
@@ -1148,6 +1143,111 @@ const data = [
       "question": "Como também é chamado o Espírito Santo?",
       "options": ["Espírito Diviníssimo", "Spirit Spirit", "Saint", "Ruach Hakodesh"],
       "answer": "Ruach Hakodesh"
+    },
+    {
+      "question": "De qual ordem é o sacerdócio de Jesus?",
+      "options": ["Espírito Santo", "Deus", "Melquisedeque", "Arão"],
+      "answer": "Melquisedeque"
+    },
+    {
+      "question": "Quem é considerado amigo de Jesus?",
+      "options": ["João", "Pedro", "Tiago", "Lázaro"],
+      "answer": "Lázaro"
+    },
+    {
+      "question": "Qual o lugar onde Jesus não pôde realizar muitos milagres?",
+      "options": ["Galileia", "Nazaré", "Judeia", "Egito"],
+      "answer": "Nazaré"
+    },
+    {
+      "question": "Que povo não se dava bem com os judeus por divergências religiosas?",
+      "options": ["Romanos", "Gregos", "Samaritanos", "Assírios"],
+      "answer": "Samaritanos"
+    },
+    {
+      "question": "Qual foi o momento no século I E II que a Igreja mais se expandiu?",
+      "options": ["Nos avivamentos", "Quando o reino ficou em paz", "Nas perseguições", "Nos aumentos das curas"],
+      "answer": "Nas perseguições"
+    },
+    {
+      "question": "O que Davi derrotou antes de enfretar o gigante?",
+      "options": ["Urso e Tigre", "Urso e Serpente", "Urso e Leão", "Leão e Tigre"],
+      "answer": "Urso e Leão"
+    },
+    {
+      "question": "Qual cidade Deus derrubou sua muralha ao som de trombetas e gritos?",
+      "options": ["Jericó", "Belém", "Uz", "Samaria"],
+      "answer": "Jericó"
+    },
+    {
+      "question": "Qual personagem tem uma ex-prostituta em sua genealogia?",
+      "options": ["Elias", "Jesus", "Saul", "Oséias"],
+      "answer": "Jesus"
+    },
+    {
+      "question": "O que Rute é de Davi?",
+      "options": ["Mulher", "Bisavó", "Avó", "Prima"],
+      "answer": "Bisavó"
+    },
+    {
+      "question": "Qual profeta tinha linhagem real de Ezequias?",
+      "options": ["Eliseu", "Sofonias", "Abadias", "Micaías"],
+      "answer": "Sofonias"
+    },
+    {
+      "question": "Que profeta operou milagres mesmo depois de morto?",
+      "options": ["Eliseu", "Elias", "Paulo", "Moisés"],
+      "answer": "Eliseu"
+    },
+    {
+      "question": "Qual salmo satanás cita uma parte para tentar Jesus?",
+      "options": ["Salmos 1", "Salmos 91", "Salmos 43", "Salmos 122"],
+      "answer": "Salmos 91"
+    },
+    {
+      "question": "Qual pecado devemos fugir e não 'tentar' resistir?",
+      "options": ["Fofoca", "Imoralidade sexual", "Pensamentos errados", "Ira"],
+      "answer": "Imoralidade sexual"
+    },
+    {
+      "question": "Qual Igreja Paulo se admirou por ter ido depressa atrás de outros evangelhos?",
+      "options": ["Dos Filipenses", "Dos Gálatas", "De Roma", "De Tessalônica"],
+      "answer": "Dos Gálatas"
+    },
+    {
+      "question": "Quem era considerado o líder cristão de Jerusalém?",
+      "options": ["Tiago", "Paulo", "Pedro", "João"],
+      "answer": "Tiago"
+    },
+    {
+      "question": "Jesus veio...?",
+      "options": ["Acabar com a Lei", "Modificar a Lei", "Cumprir a Lei", "Trazer uma nova Lei"],
+      "answer": "Cumprir a Lei"
+    },
+    {
+      "question": "Por que Tiago alerta os irmãos para que muitos não sejam mestres?",
+      "options": ["Porque é difícil", "Porque tem que ler muito", "Porque é para poucos", "Porque receberão mais duro juízo"],
+      "answer": "Porque receberão mais duro juízo"
+    },
+    {
+      "question": "Antes de resisti ao diabo, o que devemos fazer?",
+      "options": ["Orar muito", "Jejuar", "Sujeitar-se a Deus", "Se preparar"],
+      "answer": "Sujeitar-se a Deus"
+    },
+    {
+      "question": "Complete: 'Quem sabe fazer o bem e não faz...'",
+      "options": ["Comete pecado", "É preguiçoso", "Não é cristão", "Não é sincero"],
+      "answer": "Comete pecado"
+    },
+    {
+      "question": "Qual profeta declarou o derramamento do Espírito no Antigo Testamento?",
+      "options": ["Eliseu", "Elias", "Joel", "Malaquias"],
+      "answer": "Joel"
+    },
+    {
+      "question": "Quantos livros tem a bíblia?",
+      "options": ["90 livros", "60 livros", "70 livros", "66 livros"],
+      "answer": "66 livros"
     },
 ];
 
