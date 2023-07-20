@@ -745,7 +745,7 @@ const data = [
       "answer": "Saul"
     },
     {
-      "question": "Quem teve a vida prolongada por mais aproximadamente 15 anos após orar?",
+      "question": "Quem teve a vida prolongada por aproximadamente 15 anos após orar?",
       "options": ["Matusalém", "Salomão", "Davi", "Ezequias"],
       "answer": "Ezequias"
     },
@@ -1096,7 +1096,7 @@ const data = [
     },
     {
       "question": "Qual o maior princípio do jejum?",
-      "options": ["Matar nossa carne", "Mudar a resposta de Deus", "Te intervenção divina", "Subir de patamar"],
+      "options": ["Matar nossa carne", "Mudar a resposta de Deus", "Ter intervenção divina", "Subir de patamar"],
       "answer": "Matar nossa carne"
     },
     {

@@ -23,4 +23,7 @@
         max-width: 60%;
         margin: 0 auto 1.8rem;
     }
+    #welcome img{
+        width: 330px;
+    }
 }
