@@ -1249,6 +1249,361 @@ const data = [
       "options": ["90 livros", "60 livros", "70 livros", "66 livros"],
       "answer": "66 livros"
     },
+    {
+      "question": "Qual profeta declarou o derramamento do Espírito no Antigo Testamento?",
+      "options": ["Eliseu", "Elias", "Joel", "Malaquias"],
+      "answer": "Joel"
+    },
+    {
+      "question": "Quem foi o primeiro personagem tentado por satanás?",
+      "options": ["Jesus", "Adão", "Eva", "Noé"],
+      "answer": "Eva"
+    },
+    {
+      "question": "Quem se escondeu de Deus por que estava nu?",
+      "options": ["Davi", "Salomão", "Adão", "Elias"],
+      "answer": "Adão"
+    },
+    {
+      "question": "Qual personagem se embriagou e deixou sua nudez exposta?",
+      "options": ["Davi", "Noé", "Abraão", "Jacó"],
+      "answer": "Noé"
+    },
+    {
+      "question": "O que nunca tinha acontecido até os tempos de Noé?",
+      "options": ["Eclipse Solar", "Pecadores arrependidos", "Chuva", "Neve"],
+      "answer": "Chuva"
+    },
+    {
+      "question": "A mulher de Ló olhou para atrás e...",
+      "options": ["Viu um exército", "Viu fogo e enxofre", "Tropeçou", "Virou estátua de sal"],
+      "answer": "Virou estátua de sal"
+    },
+    {
+      "question": "Qual o primeiro homicida na bíblia?",
+      "options": ["Moisés", "Abraão", "Caim", "Saul"],
+      "answer": "Caim"
+    },
+    {
+      "question": "Quem tentou construir a torre de Babel?",
+      "options": ["Noé", "Sete", "Enoque", "Ninrode"],
+      "answer": "Ninrode"
+    },
+    {
+      "question": "Qual personagem tem um irmão gêmeo?",
+      "options": ["Abraão", "Ló", "Jacó", "José"],
+      "answer": "Jacó"
+    },
+    {
+      "question": "Quem foi enganado recebendo outra esposa na sua lua de mel?",
+      "options": ["Jacó", "Eliseu", "Joel", "Oséias"],
+      "answer": "Jacó"
+    },
+    {
+      "question": "Jesus veio primeiramente para?",
+      "options": ["Pecadores", "Todos os povos", "Casa de Israel", "Doentes"],
+      "answer": "Casa de Israel"
+    },
+    {
+      "question": "Quem maravilhou Jesus por sua grande fé?",
+      "options": ["Centurião", "Pedro", "Samaritana", "Nicodemos"],
+      "answer": "Centurião"
+    },
+    {
+      "question": "Quem voltou triste por que não queria vender suas posses para seguir Jesus?",
+      "options": ["Tomé", "Jovem rico", "Simão", "José"],
+      "answer": "Jovem rico"
+    },
+    {
+      "question": "Aonde Pedro jogou a rede a pedido de Jesus?",
+      "options": ["Na praia", "Ao mar", "No barco", "Ao lado direito do barco"],
+      "answer": "Ao lado direito do barco"
+    },
+    {
+      "question": "Qual nome do caminho que Jesus encontrou dois discipulos depois de ressuscitar?",
+      "options": ["Bete-Fagé", "Betânia", "Judeia", "Emaús"],
+      "answer": "Emaús"
+    },
+    {
+      "question": "Qual a obra de Deus segundo Jesus?",
+      "options": ["Reinar sobre a terra", "Que creiais naquele que Ele enviou", "Acabar com o mal", "Amar a todos"],
+      "answer": "Que creiais naquele que Ele enviou"
+    },
+    {
+      "question": "Qual era a retaliação se algum judeu confessasse que Jesus era o Cristo?",
+      "options": ["Perdia seu nome", "Era expulso da sinagoga", "Era chicoteado", "Era amaldiçoado por todos"],
+      "answer": "Era expulso da sinagoga"
+    },
+    {
+      "question": "Qual novo mandamento Jesus deixou aos seus discipulos?",
+      "options": ["Cure todos", "Deem a outra face", "Perdoem mais", "Amem uns aos outros como eu vos amei"],
+      "answer": "Amem uns aos outros como eu vos amei"
+    },
+    {
+      "question": "Além da Verdade, Jesus é...?",
+      "options": ["Profeta", "Sacerdote", "O caminho e a vida", "Pão de Deus"],
+      "answer": "O caminho e a vida"
+    },
+    {
+      "question": "Qual dos 12 pediu a Jesus: 'Mostra-nos o Pai'?",
+      "options": ["João", "Pedro", "Natanael", "Filipe"],
+      "answer": "Filipe"
+    },
+    {
+      "question": "Qual dos 12 foi considerado um verdadeiro israelita?",
+      "options": ["Pedro", "André", "Natanael", "João"],
+      "answer": "Natanael"
+    },
+    {
+      "question": "O que Pedro fez ao servo do sumo sacerdote chamado Malco na prisão de Jesus?",
+      "options": ["Curou sua ferida", "Empurrou ele", "Cortou sua orelha direita", "Orou por ele"],
+      "answer": "Cortou sua orelha direita"
+    },
+    {
+      "question": "Qual foi o título que Pilatos deu a Jesus na cruz?",
+      "options": ["Homem de Deus", "Filho de Deus", "Rei de Israel", "Rei dos judeus"],
+      "answer": "Rei dos judeus"
+    },
+    {
+      "question": "Em quais idiomas estava escrito o título de Jesus na cruz?",
+      "options": ["Hebraico", "Hebraico e Latim", "Grego e Latim", "Grego, latim e Hebraico"],
+      "answer": "Grego, latim e Hebraico"
+    },
+    {
+      "question": "Qual bebida deram a Jesus na cruz?",
+      "options": ["Água", "Vinho", "Vinagre", "Suco"],
+      "answer": "Vinagre"
+    },
+    {
+      "question": "Quem pediu para que tirasse o corpo de Jesus da cruz?",
+      "options": ["João", "Pedro", "José de Arimatéia", "Maria"],
+      "answer": "José de Arimatéia"
+    },
+    {
+      "question": "Qual nome de um dos discipulos que estavam no caminho de Emaús?",
+      "options": ["Natanel", "Bartolomeu", "Cléopas", "Tiago"],
+      "answer": "Cléopas"
+    },
+    {
+      "question": "Em qual cidade Jesus foi elevado aos céus?",
+      "options": ["Jerusalém", "Nazaré", "Galileia", "Betânia"],
+      "answer": "Betânia"
+    },
+    {
+      "question": "Por quantos dias Jesus ficou entre seus discipulos depois de ressuscitado?",
+      "options": ["30 dias", "40 dias", "12 dias", "33 dias"],
+      "answer": "40 dias"
+    },
+    {
+      "question": "Qual cidade Jesus falou para seus discipulos não se ausentarem?",
+      "options": ["Jerusalém", "Carfanaum", "Jericó", "Belém"],
+      "answer": "Jerusalém"
+    },
+    {
+      "question": "Quem foi o primo de Jesus que também é considerado um grande profeta?",
+      "options": ["Tiago", "Pedro", "João Batista", "José"],
+      "answer": "João Batista"
+    },
+    {
+      "question": "O que fluirá do interior daqueles que creem?",
+      "options": ["Unção", "Graça", "Rios de água viva", "Amor"],
+      "answer": "Rios de água viva"
+    },
+    {
+      "question": "É a capacitação vinda de Deus para fazer coisas que não conseguiríamos",
+      "options": ["Milagre", "Unção", "Oração", "Sacerdócio"],
+      "answer": "Unção"
+    },
+    {
+      "question": "Qual seita é conhecida por ser voltada a caridade e doações?",
+      "options": ["Candomblé", "Espiritismo", "Catolicismo", "Adventista"],
+      "answer": "Espiritismo"
+    },
+    {
+      "question": "Qual Igreja em Apocalipse foi repreendida por ter deixado o primeiro amor?",
+      "options": ["Tiatira", "Esmirna", "Pérgamo", "Éfeso"],
+      "answer": "Éfeso"
+    },
+    {
+      "question": "Qual Igreja em Apocalipse Jesus diz que alguns eram da sinagoga de satanás?",
+      "options": ["Pérgamo", "Esmirna", "Tiatira", "Éfeso"],
+      "answer": "Esmirna"
+    },
+    {
+      "question": "Qual Igreja em Apocalipse foi repreendida por ter seguidores da doutrina de Balaão?",
+      "options": ["Éfeso", "Filadélfia", "Pérgamo", "Laodicéia"],
+      "answer": "Pérgamo"
+    },
+    {
+      "question": "Qual Igreja em Apocalipse foi repreendida por ter deixado uma profetisa enganar os servos?",
+      "options": ["Tiatira", "Esmirna", "Filadélfia", "Sardes"],
+      "answer": "Tiatira"
+    },
+    {
+      "question": "Qual a localização da árvore da vida?",
+      "options": ["Jerusalém", "Jardim", "Sião", "No meio do paraíso de Deus"],
+      "answer": "No meio do paraíso de Deus"
+    },
+    {
+      "question": "Qual Igreja em Apocalipse foi repreendida por ter aparência de vivo, mas estava morta?",
+      "options": ["Sardes", "Laodicéia", "Pérgamo", "Tiatira"],
+      "answer": "Sardes"
+    },
+    {
+      "question": "Qual Igreja em Apocalipse foi elogiada por ser firme na sua pouca força?",
+      "options": ["Tiatira", "Esmirna", "Filadélfia", "Sardes"],
+      "answer": "Filadélfia"
+    },
+    {
+      "question": "Qual Igreja em Apocalipse foi repreendida por não ser quente nem fria?",
+      "options": ["Éfeso", "Laodicéia", "Pérgamo", "Filadélfia"],
+      "answer": "Laodicéia"
+    },
+    {
+      "question": "Qual tipo de cristão é comparado a vômito?",
+      "options": ["O chato", "O religioso", "O hipócrita", "O morno"],
+      "answer": "O morno"
+    },
+    {
+      "question": "Quem é digno de abrir o livro e desatar seus selos?",
+      "options": ["João", "Os apóstolos", "Serafim", "O Cordeiro"],
+      "answer": "O Cordeiro"
+    },
+    {
+      "question": "O cavaleiro que tinha por nome morte. Qual era a cor do seu cavalo?",
+      "options": ["Preto", "Amarelo", "Branco", "Vermelho"],
+      "answer": "Amarelo"
+    },
+    {
+      "question": "Qual a cor do cavalo daquele que vai tirar a paz da terra?",
+      "options": ["Preto", "Branco", "Vermelho", "Amarelo"],
+      "answer": "Vermelho"
+    },
+    {
+      "question": "Qual selo mostra as almas daqueles que morreram por amor a palavra de Deus?",
+      "options": ["4º selo", "7º selo", "2º selo", "5º selo"],
+      "answer": "5º selo"
+    },
+    {
+      "question": "Depois de aberto o sétimo selo, o que aconteceu no céu?",
+      "options": ["Jesus apareceu", "Os anjos cantaram", "Silêncio por quase meia hora", "O arrebatamento"],
+      "answer": "Silêncio por quase meia hora"
+    },
+    {
+      "question": "Quantas trombetas são tocadas em Apocalipse?",
+      "options": ["3 trombetas", "12 trombetas", "10 trombetas", "7 trombetas"],
+      "answer": "7 trombetas"
+    },
+    {
+      "question": "Qual nome da estrela que caiu nos rios e amargou a terça parte das águas?",
+      "options": ["Diabo", "Lúcifer", "Absinto", "Abadom"],
+      "answer": "Absinto"
+    },
+    {
+      "question": "Depois de qual trombeta os homens desejarão a morte, mas a morte fugirá deles?",
+      "options": ["5ª trombeta", "6ª trombeta", "7ª trombeta", "1ª trombeta"],
+      "answer": "5ª trombeta"
+    },
+    {
+      "question": "Qual nome do anjo que é rei do abismo?",
+      "options": ["Elion", "Lúcifer", "Gamaliel", "Abadom"],
+      "answer": "Abadom"
+    },
+    {
+      "question": "Qual nome da estrela que caiu nos rios e amargou a terça parte das águas?",
+      "options": ["Diabo", "Lúcifer", "Absinto", "Abadom"],
+      "answer": "Absinto"
+    },
+    {
+      "question": "Quantos ais a humanidade sofrerá no Apocalipse?",
+      "options": ["1 ai", "3 ais", "7 ais", "2 ais"],
+      "answer": "3 ais"
+    },
+    {
+      "question": "Quantos anjos são soltos para matarem a terça parte dos homens?",
+      "options": ["2 anjos", "5 anjos", "7 anjos", "4 anjos"],
+      "answer": "4 anjos"
+    },
+    {
+      "question": "Onde os anjos que vão matar a terça parte dos homens estão presos?",
+      "options": ["No inferno", "No grande rio Eufrates", "No abismo", "No mar"],
+      "answer": "No grande rio Eufrates"
+    },
+    {
+      "question": "Quantas são as taças da ira de Deus?",
+      "options": ["7 taças", "12 taças", "6 taças", "3 taças"],
+      "answer": "7 taças"
+    },
+    {
+      "question": "Qual taça permitiu que o Sol abraçasse os homens com fogo?",
+      "options": ["2ª taça", "4ª taça", "1ª taça", "7ª taça"],
+      "answer": "4ª taça"
+    },
+    {
+      "question": "Qual é considerada a trindade satânica?",
+      "options": ["Diabo, Lúcifer e Anticristo", "Lúcifer, Anticristo e Demônios", "Dragão, Falso profeta e a Besta", "Diabo, Falso profeta e Pecadores"],
+      "answer": "Dragão, Falso profeta e a Besta"
+    },
+    {
+      "question": "Qual é um dos nomes que Jesus recebe em Apocalipse?",
+      "options": ["Majestoso", "A Palavra de Deus", "Messias", "O Grande Salvador"],
+      "answer": "A Palavra de Deus"
+    },
+    {
+      "question": "Onde a besta e o falso profeta foram lançados vivos?",
+      "options": ["No lago de fogo", "No inferno", "No abismo", "Na terra"],
+      "answer": "No lago de fogo"
+    },
+    {
+      "question": "Qual é considerada a segunda morte?",
+      "options": ["O inferno", "O pecado", "Lago de fogo", "O abismo"],
+      "answer": "Lago de fogo"
+    },
+    {
+      "question": "Onde a morte e o inferno serão lançados?",
+      "options": ["Na prisão", "Nenhum lugar", "No abismo", "No lago de fogo"],
+      "answer": "No lago de fogo"
+    },
+    {
+      "question": "Quem sofrerá a segunda morte?",
+      "options": ["Os reis da terra", "Os doidos", "Os príncipes desse mundo", "os que não estiverem no livro da vida"],
+      "answer": "os que não estiverem no livro da vida"
+    },
+    {
+      "question": "Qual o formato da nova Jerusalém segundo Apocalipse?",
+      "options": ["Circular", "Quadrada", "Retangular", "Sem forma"],
+      "answer": "Quadrada"
+    },
+    {
+      "question": "Qual a última palavra da bíblia?",
+      "options": ["Jesus", "Paz", "Vida", "Amém"],
+      "answer": "Amém"
+    },
+    {
+      "question": "Melquisedeque é sacerdote de qual tribo?",
+      "options": ["Judá", "Levi", "Nenhuma tribo", "Simeão"],
+      "answer": "Nenhuma tribo"
+    },
+    {
+      "question": "Quem é o filho mais velho de Jacó?",
+      "options": ["José", "Levi", "Naftali", "Rubem"],
+      "answer": "Rubem"
+    },
+    {
+      "question": "Qual a tribo escolhida para servir a Deus no sacerdócio?",
+      "options": ["Judá", "Zebulom", "José", "Levi"],
+      "answer": "Levi"
+    },
+    {
+      "question": "Qual livro alerta que o povo pereceu por falta de conhecimento?",
+      "options": ["Mateus", "1ª Reis", "Números", "Oséias"],
+      "answer": "Oséias"
+    },
+    {
+      "question": "Em qual livro está a passagem 'Não por força, nem violência, mas sim pelo meu Espírito'?",
+      "options": ["João", "Zacarias", "Romanos", "Apocalipse"],
+      "answer": "Zacarias"
+    },
 ];
 
 export default data;
