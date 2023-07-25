@@ -20,7 +20,7 @@ const quizReducer = (state, action) => {
             };
 
         case "REORDER_QUESTIONS":
-            const totalQuestions = 10;
+            const totalQuestions = 15;
             const reorder = questions.sort(() => Math.random() - 0.5);
             const selectedQuestions = reorder.slice(0, totalQuestions);
 
@@ -31,6 +31,7 @@ const quizReducer = (state, action) => {
                 score: 0,
                 answerSelect: false,
                 gameStage: STAGES[0],
+                totalQuestions: totalQuestions,
             };
 
             
