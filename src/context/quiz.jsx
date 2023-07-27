@@ -34,7 +34,16 @@ const quizReducer = (state, action) => {
                 totalQuestions: totalQuestions,
             };
 
-            
+        case "REORDER_QUESTIONS_ALL":
+            return {
+                ...state,
+                questions: questions,
+                currentQuestion: 0,
+                score: 0,
+                answerSelect: false,
+                gameStage: STAGES[0],
+                totalQuestions: questions.length
+            };
 
         case "CHANGE_QUESTION":
             const nextQuestion = state.currentQuestion + 1;

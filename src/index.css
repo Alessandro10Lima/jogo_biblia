@@ -25,6 +25,8 @@ button{
   border-radius: 3rem;
   border: none;
   letter-spacing: 0.5px;
+  display: block;
+  margin: 12px auto;
 }
 
 button:hover{

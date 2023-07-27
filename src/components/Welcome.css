@@ -13,9 +13,9 @@
 }
 
 #welcome img{
-    margin-top: 2rem;
-    width: 360px;
-    height: 300px;
+    margin-top: 1rem;
+    width: 336px;
+    height: 288px;
 }
 
 @media (max-width: 768px){
@@ -24,6 +24,6 @@
         margin: 0 auto 1.8rem;
     }
     #welcome img{
-        width: 330px;
+        width: 312px;
     }
 }

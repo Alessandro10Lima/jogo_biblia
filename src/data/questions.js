@@ -130,14 +130,14 @@ const data = [
       "answer": "Sara"
     },
     {
-      "question": "Qual foi o profeta que subiu ao céu em um carro de fogo?",
+      "question": "Qual profeta viu seu líder subir os céus?",
       "options": [
         "Isaías",
         "Eliseu",
         "Elias",
         "Jeremias"
       ],
-      "answer": "Elias"
+      "answer": "Eliseu"
     },
     {
       "question": "Qual foi o apóstolo que negou Jesus três vezes antes do galo cantar?",
@@ -1653,6 +1653,46 @@ const data = [
       "question": "Quem além de Calebe trouxe boas notícias ao povo depois de espiar a terra?",
       "options": ["Moisés", "Josué", "Joel", "Natã"],
       "answer": "Josué"
+    },
+    {
+      "question": "Qual o dom gratuito de Deus?",
+      "options": ["Unção", "Promessa", "Vida eterna", "Milagres"],
+      "answer": "Vida eterna"
+    },
+    {
+      "question": "Qual o salário do pecado?",
+      "options": ["Amargura", "Ódio", "Tristeza", "Morte"],
+      "answer": "Morte"
+    },
+    {
+      "question": "Os dons e a vocação de Deus são...?",
+      "options": ["Para os santos", "Para os escolhidos", "Para todos", "Sem arrependimento"],
+      "answer": "Sem arrependimento"
+    },
+    {
+      "question": "Só uma coisa é permitido nós sermos devedores?",
+      "options": ["Das obras", "Do amor", "Das atividades", "Da pregação"],
+      "answer": "Do amor"
+    },
+    {
+      "question": "Precisamos nos sujeitar a qual autoridade?",
+      "options": ["As cristãs", "As boas", "As políticas", "Todas"],
+      "answer": "Todas"
+    },
+    {
+      "question": "Segundo a palavra, O Reino de Deus não é...?",
+      "options": ["Mar e rosas", "Só alegria", "Comida nem bebida", "Para todos"],
+      "answer": "Comida nem bebida"
+    },
+    {
+      "question": "Quem Paulo não pôde falar como a espirituais, porque ainda eram meninos em Cristo?",
+      "options": ["Os coríntios", "Os judeus", "Os romanos", "Os gregos"],
+      "answer": "Os coríntios"
+    },
+    {
+      "question": "Segundo Paulo, o reino de Deus não consiste em palavras, mas...?",
+      "options": ["Em ações", "Em amor", "Em oração", "Em poder"],
+      "answer": "Em poder"
     },
 ];
 
