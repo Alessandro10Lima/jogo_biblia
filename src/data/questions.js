@@ -1604,6 +1604,56 @@ const data = [
       "options": ["João", "Zacarias", "Romanos", "Apocalipse"],
       "answer": "Zacarias"
     },
+    {
+      "question": "Em que momento a voz de Deus passeava pelo jardim?",
+      "options": ["Pela manhã", "Na madrugada", "Na viração do dia", "Pela noite"],
+      "answer": "Na viração do dia"
+    },
+    {
+      "question": "Segundo a palavra, O que o perfeito amor lança fora?",
+      "options": ["A inveja", "O medo", "A tristeza", "A raiva "],
+      "answer": "O medo"
+    },
+    {
+      "question": "Qual nome do filho de Adão e Eva que 'ocupou' o lugar de Abel?",
+      "options": ["Sete", "Caim", "Lameque", "Jubal"],
+      "answer": "Sete"
+    },
+    {
+      "question": "Depois da queda, a partir de quem começou a se invocar o nome do Senhor?",
+      "options": ["Caim", "Jabal", "Rode", "Enos"],
+      "answer": "Enos"
+    },
+    {
+      "question": "Quem andou com Deus e não conheceu a morte?",
+      "options": ["Noé", "Enoque", "Sete", "Cainã"],
+      "answer": "Enoque"
+    },
+    {
+      "question": "Por quanto tempo o dilúvio ficou ocorrendo?",
+      "options": ["150 dias", "60 dias", "30 dias", "90 dias"],
+      "answer": "150 dias"
+    },
+    {
+      "question": "A partir de quantos anos um levita podia ministrar no tabernáculo?",
+      "options": ["30 anos", "27 anos", "20 anos", "18 anos"],
+      "answer": "30 anos"
+    },
+    {
+      "question": "Que voto não poderia comer nada feito das vinhas?",
+      "options": ["Batistal", "Nazireado", "jesuíta", "Abraâmico"],
+      "answer": "Nazireado"
+    },
+    {
+      "question": "Qual voto não poderia chegar perto do corpo de um morto ?",
+      "options": ["jesuíta", "Davídico", "Mosaico", "Nazireado"],
+      "answer": "Nazireado"
+    },
+    {
+      "question": "Quem além de Calebe trouxe boas notícias ao povo depois de espiar a terra?",
+      "options": ["Moisés", "Josué", "Joel", "Natã"],
+      "answer": "Josué"
+    },
 ];
 
 export default data;
