@@ -1694,6 +1694,57 @@ const data = [
       "options": ["Em ações", "Em amor", "Em oração", "Em poder"],
       "answer": "Em poder"
     },
+    {
+      "question": "Quantos anos a mulher do fluxo de sangue sofria de hemorragia?",
+      "options": ["7 anos", "12 anos", "10 anos", "3 anos"],
+      "answer": "12 anos"
+    },
+    {
+      "question": "Quem subiu numa figueira para ver Jesus?",
+      "options": ["Lázaro", "Bartimeu", "Zaqueu", "Maria"],
+      "answer": "Zaqueu"
+    },
+    {
+      "question": "Quem questiona sobre derramar o perfume em Jesus, por que poderia vender e dar aos pobres?",
+      "options": ["Tadeu", "Pedro", "Jonas", "Judas"],
+      "answer": "Judas"
+    },
+    {
+      "question": "De qual profeta Jesus daria um sinal?",
+      "options": ["Jonas", "Elias", "Eliseu", "Moisés"],
+      "answer": "Jonas"
+    },
+    {
+      "question": "Para quem Jesus falou 'necessário é nascer de novo'?",
+      "options": ["Lázaro", "Pedro", "Nicodemos", "Judas"],
+      "answer": "Nicodemos"
+    },
+    {
+      "question": "Qual era o grupo mais influente na comunidade judaica na época de Jesus?",
+      "options": ["Saduceus", "Ateneus", "Fariseus", "Escribas"],
+      "answer": "Fariseus"
+    },
+    {
+      "question": "Segundo Tiago, considerem motivo de grande alegria?",
+      "options": ["Ver milagres", "Passar por provações", "Ser um diácono", "Sofrer a vida toda"],
+      "answer": "Passar por provações"
+    },
+    {
+      "question": "Segundo Tiago, cada um é tentado...",
+      "options": ["Pelo dinheiro", "Pela fraqueza", "Por satanás", "Pela própria cobiça"],
+      "answer": "Pela própria cobiça"
+    },
+    {
+      "question": "Qual o nome verdadeiro de Sadraque, Mesaque e Abede-Nego",
+      "options": ["Judá, Daniel e Josiel", "José, Absai e Daniel", "Josias, Micaías e Urias", "Ananias, Misael e Azarias"],
+      "answer": "Ananias, Misael e Azarias"
+    },
+    {
+      "question": "Que entregou uma carta, com sua própria sentença de morte, ao seu superior?",
+      "options": ["Davi", "Paulo", "Josué", "Urias"],
+      "answer": "Urias"
+    },
+    
 ];
 
 export default data;
