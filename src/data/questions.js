@@ -1744,7 +1744,56 @@ const data = [
       "options": ["Davi", "Paulo", "Josué", "Urias"],
       "answer": "Urias"
     },
-    
+    {
+      "question": "O sacrifício de Jesus é...",
+      "options": ["Temporário", "Limitado", "Para sempre", "Incompleto"],
+      "answer": "Para sempre"
+    },
+    {
+      "question": "Qual profeta ungiu a cabeça de Davi para ser rei?",
+      "options": ["Elias", "Daniel", "Abadias", "Samuel"],
+      "answer": "Samuel"
+    },
+    {
+      "question": "Qual juiz derrubou todos os altares de baal pela noite?",
+      "options": ["Débora", "Gideão", "Baraque", "Sasaque"],
+      "answer": "Gideão"
+    },
+    {
+      "question": "Com quantos homens o Senhor livrou Israel através de Gideão?",
+      "options": ["10 mil", "32 mil", "300", "20 mil"],
+      "answer": "300"
+    },
+    {
+      "question": "Qual juiz era homem valoroso, mas filho de uma prostituta?",
+      "options": ["Gideão", "Abimelque", "Jotão", "Jefté"],
+      "answer": "Jefté"
+    },
+    {
+      "question": "A mãe de qual personagem era estéril?",
+      "options": ["Sansão", "Paulo", "Davi", "Salomão"],
+      "answer": "Sansão"
+    },
+    {
+      "question": "Qual personagem teve seus olhos arrancados?",
+      "options": ["Davi", "Sansão", "Gideão", "Saul"],
+      "answer": "Sansão"
+    },
+    {
+      "question": "Qual tribo foi quase extinta por causa da guerra?",
+      "options": ["Simeão", "Judá", "Issacar", "Benjamim"],
+      "answer": "Benjamim"
+    },
+    {
+      "question": "Qual época bíblica cada um fazia o que era reto aos seus olhos?",
+      "options": ["Dos Reis", "Dos sacerdotes", "Dos juízes", "Dos apóstolos"],
+      "answer": "Dos juízes"
+    },
+    {
+      "question": "Qual o nome da filha de Jacó ?",
+      "options": ["Débora", "Diná", "Raquel", "Lia"],
+      "answer": "Diná"
+    },
 ];
 
 export default data;
